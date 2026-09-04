@@ -9,3 +9,9 @@
 | [linal.ipynb](linal.ipynb) | Линейные преобразования, собственные векторы и SVD |
 | [norm.ipynb](norm.ipynb) | Методы нормализации |
 | [case-and-commas.ipynb](pet_projects/case-and-commas.ipynb) | Восстановление синтаксиса языка: двухголовый BERT |
+
+# TODO
+
+- Разбор Gated Attention и DeltaNet
+- Ноутбук по PCA
+- Разработка модели для задачи NER
